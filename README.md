@@ -11,11 +11,11 @@ Using logisic regression to predict a patient heart failure
 
 ### Executing program
 
-* How to run the program: I built my progrm in jupiter notebook, therefore the best way to run my program is using jupiter notebook
+* How to run the program: I built my progrm in jupiter notebook. It can be run through anocanda or jupiter notebook application. 
 
-## Help
+## Licence
 
-* harnold8@bu.edu 
+* MIT License
 
 ## Version History
 * Python 3.9.7 
