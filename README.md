@@ -1,5 +1,6 @@
 # Heart Failure Prediction Project
 Using logisic regression to predict a patient heart failure
+My project’s main goal is predicting heart failure based on input parameters
 
 ## Getting Started
 
@@ -7,7 +8,7 @@ Using logisic regression to predict a patient heart failure
 * Libraries that I used: pandas, numpy, matplotlib, seaborn, sklearn
 
 ### Installing
-* It can be download by pip install  
+* The libraries can be downloaded by pip install . 
 
 ### Executing program
 
