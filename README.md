@@ -1,6 +1,7 @@
 # Heart Failure Prediction Project
-Using logisic regression to predict a patient heart failure<br>
-My project’s main goal is predicting heart failure based on input parameters
+My project’s main goal is predict heart failure based on input parameters<br>
+To prediction heart disease I used Logistic Regression Machine Learning Model <br>
+
 
 ## Getting Started
 
