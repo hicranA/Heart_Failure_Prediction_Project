@@ -1,6 +1,6 @@
 # Heart Failure Prediction Project
-My project’s main goal is predict heart failure based on input parameters<br>
-To prediction heart disease I used Logistic Regression Machine Learning Model <br>
+My project’s primary goal is to predict heart failure based on input parameters<br>
+To predict heart disease I used Logistic Regression Machine Learning Model <br>
 
 
 ## Getting Started
@@ -12,8 +12,7 @@ To prediction heart disease I used Logistic Regression Machine Learning Model <b
 * The libraries can be downloaded by pip install . 
 
 ### Executing program
-
-* How to run the program: I built my progrm in jupiter notebook. It can be run through anocanda or jupiter notebook application. 
+* How to run the program: I built my model using jupyter notebook. It can be run through anaconda or jupyter notebook application.
 
 ## Licence
 
